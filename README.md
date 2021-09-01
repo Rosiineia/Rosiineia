@@ -25,7 +25,7 @@ Sou Rosiineia
  
  
  
-![Snake animation](https://github.com/Rosiineia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rosiineia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
